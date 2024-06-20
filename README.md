@@ -16,11 +16,11 @@ I tend to value:
 
 ⛏️ *Clear evidence over common sense (common sense, while a good fall back when there is no clear evidence, is limited by experience but, on the other hand ✋ clear evidence is much harder to come by than the internet, and often the classroom, would have us believe)*,
 
-🗓️ *Well defined processes over a free for all*,
+🗓️ *Planning & processes over a free for all*,
 
 📣 *Communication over processess*,
 
-🏋️‍♂️ *Improvement over perfection*,
+🏋️‍♂️ *Building over planning*,
 
 🛠️ *Technology over human suffering (technology&mdash;particularly in the broad sense of applied technique)*,
 
