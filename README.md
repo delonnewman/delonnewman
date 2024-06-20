@@ -22,7 +22,7 @@ I tend to value:
 
 *Improvement over perfection*,
 
-*Technology over human suffering*,
+*Technology over human suffering (technology, particularly in the broad sense of applied technique)*,
 
 *Humans over technology*.
 
