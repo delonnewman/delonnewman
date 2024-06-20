@@ -18,7 +18,7 @@ I tend to value:
 
 *Well defined processes over a free for all*,
 
-*Communication and people over processess*,
+*Communication over processess*,
 
 *Improvement over perfection*,
 
