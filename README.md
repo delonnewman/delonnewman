@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a programmer (as I assume so many of you are). I've been doing this for what seems to me to be a long time.
+I'm a programmer. I've been doing this for what seems to me to be a long time.
 
 Since I'm learning (no doubt I'm learning this later than most 😅) that so much of what we do is governed by our perspective and what we value. Here's a brief summary of what I tend to value, so you can have a sense for whether I'd be a good fit for your team.
 
