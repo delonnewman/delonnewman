@@ -10,7 +10,7 @@ I tend to value:
 
 *Cooperation over independence*,
 
-*Thoughful action over assumptions (best practices, right or wrong, are assumptions; this could also be stated "principles over rules")*,
+*Thoughful action over assumptions (best practices, good or bad, are assumptions; this could also be stated "principles over rules")*,
 
 *Common sense over philosophical bias (thoughfulness however well intended seems to lead philosophical biases)*,
 
