@@ -6,7 +6,7 @@ Since I'm learning (no doubt I'm learning this later than most 😅) that so muc
 
 I tend to value:
 
-🧗‍♀️ *Independence over mindless conformity*,
+🧗‍♀️ *Independence over thoughtless conformity*,
 
 🤝 *Cooperation over independence*,
 
