@@ -14,7 +14,7 @@ I tend to value:
 
 *Common sense over philosophical bias (thoughfulness however well intended seems to lead philosophical biases)*,
 
-*Clear evidence over common sense (common sense, while a good fall back when there is no clear evidence is limited by experience, but clear evidence is much harder to come by than the internet, and often the classroom would have us believe ⛏️)*,
+*Clear evidence over common sense (common sense, while a good fall back when there is no clear evidence is limited by experience, but on the other hand ✋ clear evidence is much harder to come by than the internet, and often the classroom would have us believe ⛏️)*,
 
 *Well defined processes over a free for all*,
 
