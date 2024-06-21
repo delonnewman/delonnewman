@@ -6,15 +6,15 @@ Since I'm learning that so much of what we do is governed by our perspective and
 
 I tend to value:
 
-🧗‍♀️ *Independence over thoughtless conformity*,
+🧗‍♀️ *Independence over mindless conformity*,
 
 🤝 *Cooperation over independence*,
 
-🤔 *Thoughful action over assumptions (best practices, good or bad, are assumptions; this could also be stated "principles over rules")*,
+🤔 *Thoughful action over assumptions (best practices, good or bad, are assumptions)*,
 
 🤷‍♀️ *Common sense over philosophical bias (thoughfulness, however well intended, tends to lead to philosophical biases)*,
 
-⛏️ *Clear evidence over common sense (common sense, while a good fall back when there is no clear evidence, is limited by experience but, on the other hand ✋ clear evidence is much harder to come by than the internet, and often the classroom, would have us believe)*,
+⛏️ *Clear evidence over common sense (common sense, while a good fall back when there is no clear evidence, is limited by experience, but on the other hand ✋ clear evidence is much harder to come by than the internet, and often the classroom, would have us believe)*,
 
 🗓️ *Planning & process over a free for all*,
 
@@ -22,7 +22,7 @@ I tend to value:
 
 🏋️‍♂️ *Building over planning*,
 
-🛠️ *Technology over human suffering (technology&mdash;particularly in the broad sense of applied technique)*,
+🛠️ *Technology over human suffering*,
 
 ❤️ *People over technology* 🧍🏻‍♀🧍🏿‍♂️👨🏼‍🦽💃🏽 👩🏻‍🦯‍➡️🏃🏻‍♂️‍➡️🕺🏽🧎🏾‍♂️‍➡️.
 
