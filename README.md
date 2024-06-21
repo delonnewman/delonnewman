@@ -24,7 +24,7 @@ I tend to value:
 
 🛠️ *Technology over human suffering*,
 
-❤️ *People over technology* 🧍🏻‍♀🧍🏿‍♂️👨🏼‍🦽💃🏽 👩🏻‍🦯‍➡️🏃🏻‍♂️‍➡️🕺🏽🧎🏾‍♂️‍➡️.
+❤️ *Humans over technology* 🧍🏻‍♀🧍🏿‍♂️👨🏼‍🦽💃🏽 👩🏻‍🦯‍➡️🏃🏻‍♂️‍➡️🕺🏽🧎🏾‍♂️‍➡️.
 
 For the bottom line people&mdash;I currently work with [Ruby](https://ruby-lang.org) & [JavaScript](https://javascript.info) for the most part. Though I've worked with most things in the mainstream and a few things that are not so mainstream. I tend to think more like a [Lisp](https://lisp-lang.org) or [Smalltalk](https://squeak.org) programmer (these days more and more it seems, I apologize in advance 😅).  I'm also comfortable with SQL, Java, Clojure and C.
 
