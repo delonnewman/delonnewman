@@ -9,4 +9,5 @@ I'm working on [Dragnet](https://github.com/delonnewman/dragnet), the next gener
 I'm available for freelance or contract work. If you think I might be able to
 help, please feel free to get in touch.
 
-<a href="https://linkedin.com/in/delonnewman">![LinkedIn logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "My LinkedIn profile")</a>
+- [Website](https://delonnewman.name)
+- [LinkedIn](https://linkedin.com/in/delonnewman)
