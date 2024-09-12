@@ -1,4 +1,6 @@
-### Hi there! 👋
+<img src="/blu.png" align="right" alt="Say hi Blu!">
+
+### Hi there! 👋, say hi Blu!
 
 I'm a full stack developer who usually works with Ruby & JavaScript (TypeScript).
 
