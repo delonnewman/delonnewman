@@ -1,5 +1,3 @@
-<img src="/blu.png" align="right" alt="Say hi Blu!">
-
 ### Hi there!
 
 I'm a full stack developer who usually works with Ruby & JavaScript (TypeScript).
