@@ -2,7 +2,7 @@
 
 I'm a full stack developer who usually works with Ruby & JavaScript (TypeScript).
 
-I'm working on [Dragnet](https://github.com/delonnewman/dragnet), the next generation of some [other](https://delonnewman.name/projects/processlog) [systems](https://delonnewman.name/projects/surveyor/).
+I'm working on [Dragnet](https://github.com/delonnewman/dragnet), the next generation of some [other](https://delonnewman.name/projects/processlog) [systems](https://delonnewman.name/projects/surveyor/) I've worked on.
 
 ### Work
 
