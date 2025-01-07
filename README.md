@@ -49,6 +49,11 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![DOM](https://img.shields.io/badge/DOM-white?style=flat&logo=html5)
+![HTMX](https://img.shields.io/badge/HTMX-black?style=flat&logo=htmx)
+![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
+![Svelte](https://img.shields.io/badge/Svelte-white?style=flat&logo=svelte)
+![Node.js](https://img.shields.io/badge/Node-grey?style=flat&logo=nodedotjs)
+![Sinatra](https://img.shields.io/badge/Sinatra-CC0000?style=flat&logo=rubysinatra&logoColor=white)
 
 #### Databases
 
