@@ -26,3 +26,39 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 
 - [Website](https://delonnewman.name)
 - [LinkedIn](https://linkedin.com/in/delonnewman)
+
+### Tools
+
+#### Favorites
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-grey?style=flat&logo=clojure)
+![Emacs](https://img.shields.io/badge/Emacs-white?style=flat&logo=gnuemacs)
+
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
+
+#### Frameworks
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-white?style=flat&logo=html5)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Datomic](https://img.shields.io/badge/Datomic-1ABC9C?style=flat&logo=clojure&logoColor=white)
+
+#### Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
