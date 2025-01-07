@@ -1,13 +1,28 @@
 ### Hi there!
 
-I'm a full stack developer who usually works with Ruby & JavaScript (also TypeScript).
-
-I'm working on [Dragnet](https://github.com/delonnewman/dragnet), the next generation of some [other](https://delonnewman.name/projects/processlog) [systems](https://delonnewman.name/projects/surveyor/) I've worked on.
+I love helping people leverage the power of data and software. I've had the
+privilege of doing so in various roles for over 20 years. My specialty is
+working with stakeholders to develop extensible scheduling,
+[workflow](https://delonnewman.name/history/workflow), and
+[form systems](https://delonnewman.name/history/form-system). I also love
+[teaching](https://delonnewman.name/history/teaching) and [mentoring](https://delonnewman.name/history/mentoring).
+Currently, most of my work is with [Ruby](https://delonnewman.name/history/ruby)
+and [JavaScript](https://delonnewman.name/history/javascript) (although
+I'm more of a Lisp or Smalltalk hacker at heart).
 
 ### Work
 
-I'm available for freelance or contract work. If you think I might be able to
-help, please feel free to get in touch.
+I'm available for freelance or contract work. Hard problems with no clear cut solution
+are the most interesting to me. I may also be able to
+[help you get projects started](https://delonnewman.name/projects/punchedit),
+[complete stalled projects](https://delonnewman.name/projects/surveyor),
+and coach teams on things like system design, and dealing with the technical challenges
+around modeling sparsely structured data (especially in healthcare and clinical research).
+
+You'll find a reasonably complete summary of my experience [here](https://delonnewman.name/history)
+(there's an abbreviated version in PDF format [here](https://delonnewman.name/resume.pdf)).
+Feel free to reach out to me by [email](mailto:contact@delonnewman.name)
+or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 
 - [Website](https://delonnewman.name)
 - [LinkedIn](https://linkedin.com/in/delonnewman)
