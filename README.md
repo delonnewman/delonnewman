@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! 👋
 
 I love helping people leverage the power of data and software. I've had the
 privilege of doing so in various roles for over 20 years. My specialty is
