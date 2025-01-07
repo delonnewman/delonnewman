@@ -44,6 +44,9 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective-C-000000?style=flat)
+![AppleScript](https://img.shields.io/badge/AppleScript-purple?style=flat)
 
 #### Frameworks
 
@@ -65,5 +68,6 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
