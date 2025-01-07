@@ -45,7 +45,6 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective-C-000000?style=flat)
 ![AppleScript](https://img.shields.io/badge/AppleScript-purple?style=flat)
 
 #### Frameworks
