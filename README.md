@@ -42,7 +42,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://delonnewman.name/history/typescript/)
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://delonnewman.name/history/c)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://delonnewman.name/history/java/)
-[Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 [![SQL](https://img.shields.io/badge/SQL-blue?style=flat)](https://delonnewman.name/history/sql/)
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)](https://delonnewman.name/history/rails/)
 [![Node.js](https://img.shields.io/badge/Node-grey?style=flat&logo=nodedotjs)](https://delonnewman.name/history/nodejs/)
