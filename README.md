@@ -31,46 +31,25 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 
 #### Favorites
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-grey?style=flat&logo=clojure)
-![Emacs](https://img.shields.io/badge/Emacs-white?style=flat&logo=gnuemacs)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://delonnewman.name/history/ruby/)
+[![Clojure](https://img.shields.io/badge/Clojure-grey?style=flat&logo=clojure)](https://delonnewman.name/history/clojure/)
+[![Emacs](https://img.shields.io/badge/Emacs-white?style=flat&logo=gnuemacs)](https://delonnewman.name/articles/2023/11/21/emacs-is-more-like-a-terminal-than-an-editor/)
 
-#### Languages
+#### Others Most Commonly Used
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![AppleScript](https://img.shields.io/badge/AppleScript-purple?style=flat)
-
-#### Frameworks
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![DOM](https://img.shields.io/badge/DOM-white?style=flat&logo=html5)
-![HTMX](https://img.shields.io/badge/HTMX-black?style=flat&logo=htmx)
-![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
-![Svelte](https://img.shields.io/badge/Svelte-white?style=flat&logo=svelte)
-![Node.js](https://img.shields.io/badge/Node-grey?style=flat&logo=nodedotjs)
-![Sinatra](https://img.shields.io/badge/Sinatra-CC0000?style=flat&logo=rubysinatra&logoColor=white)
-
-#### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Datomic](https://img.shields.io/badge/Datomic-1ABC9C?style=flat&logo=clojure&logoColor=white)
-
-#### Platforms
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://delonnewman.name/history/git/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://delonnewman.name/history/javascript/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://delonnewman.name/history/typescript/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://delonnewman.name/history/c)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://delonnewman.name/history/java/)
+[![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://delonnewman.name/history/bash/)
+[![SQL](https://img.shields.io/badge/SQL-blue?style=flat)](https://delonnewman.name/history/sql/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)](https://delonnewman.name/history/rails/)
+[![Node.js](https://img.shields.io/badge/Node-grey?style=flat&logo=nodedotjs)](https://delonnewman.name/history/nodejs/)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://delonnewman.name/history/linux/)
+[![DOM](https://img.shields.io/badge/DOM-white?style=flat&logo=html5)](https://delonnewman.name/history/javascript/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://delonnewman.name/history/postgresql/)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://delonnewman.name/history/docker/)
 
-#### Others
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
