@@ -34,7 +34,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 
 #### Areas of Interest
 
-- Compilers & Intepreters
+- Compilers & Interpreters
 - Foundations of CS (i.e. [What does it really mean to compute?](https://www.youtube.com/watch?v=HB5TrK7A4pI))
 - History of CS (i.e. [How did we get here, why?](https://delonnewman.name/tag/history/))
 - Integrating of machine learning with structured techiques
