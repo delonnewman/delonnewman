@@ -28,7 +28,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 - Domain Modeling
 - Web Development
 - Health Information Systems
-- Product Delivery (PoCs, MVPs, stalled projects)
+- Product Design & Delivery (PoCs, MVPs, stalled projects)
 - Sparsely Structured Data
 - Integration (APIs, legacy systems, parsing & encoding data formats)
 
