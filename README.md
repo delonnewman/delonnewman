@@ -37,7 +37,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 - Compilers & Interpreters
 - Foundations of CS (i.e. [What does it really mean to compute?](https://www.youtube.com/watch?v=HB5TrK7A4pI))
 - History of CS (i.e. [How did we get here, why?](https://delonnewman.name/tag/history/))
-- Integrating of machine learning with structured techiques
+- Integrating of machine learning with structured techniques
 - Becoming a better [artist](https://www.paulgraham.com/knuth.html)
 
 ### Tools
