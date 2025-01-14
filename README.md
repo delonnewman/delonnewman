@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 I love helping people leverage the power of data and software. I've had the
-privilege of doing so in various roles for over 20 years. My specialty is
+privilege of doing so in various roles for over 25 years. My specialty is
 working with stakeholders to develop extensible scheduling,
 [workflow](https://delonnewman.name/history/workflow), and
 [form systems](https://delonnewman.name/history/form-system). I also love
