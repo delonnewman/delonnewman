@@ -60,3 +60,4 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 ![Vim](https://img.shields.io/badge/Vim-white?style=flat&logo=vim&logoColor=019733)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://delonnewman.name/history/mysql/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://delonnewman.name/history/php/)
+[![Sinatra](https://img.shields.io/badge/Sinatra-white?style=flat&logo=rubysinatra&logoColor=black)](https://delonnewman.name/history/sinatra/)
