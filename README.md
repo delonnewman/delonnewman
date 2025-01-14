@@ -34,22 +34,29 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://delonnewman.name/history/ruby/)
 [![Clojure](https://img.shields.io/badge/Clojure-grey?style=flat&logo=clojure)](https://delonnewman.name/history/clojure/)
 [![Emacs](https://img.shields.io/badge/Emacs-white?style=flat&logo=gnuemacs)](https://delonnewman.name/articles/2023/11/21/emacs-is-more-like-a-terminal-than-an-editor/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://delonnewman.name/history/c)
 
 #### Others Most Commonly Used
 
-[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://delonnewman.name/history/git/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://delonnewman.name/history/javascript/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)](https://delonnewman.name/history/rails/)
+[![DOM](https://img.shields.io/badge/DOM-white?style=flat&logo=html5)](https://delonnewman.name/history/javascript/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://delonnewman.name/history/postgresql/)
+[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://delonnewman.name/history/git/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://delonnewman.name/history/typescript/)
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://delonnewman.name/history/c)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://delonnewman.name/history/java/)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 [![SQL](https://img.shields.io/badge/SQL-blue?style=flat)](https://delonnewman.name/history/sql/)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)](https://delonnewman.name/history/rails/)
 [![Node.js](https://img.shields.io/badge/Node-grey?style=flat&logo=nodedotjs)](https://delonnewman.name/history/nodejs/)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://delonnewman.name/history/linux/)
-[![DOM](https://img.shields.io/badge/DOM-white?style=flat&logo=html5)](https://delonnewman.name/history/javascript/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://delonnewman.name/history/postgresql/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://delonnewman.name/history/docker/)
 
+#### Others Commonly Used in the Past
 
+[![.NET](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)](https://delonnewman.name/history/c-sharp/)
+[![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)](https://delonnewman.name/history/perl/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://delonnewman.name/history/python/)
+![Vim](https://img.shields.io/badge/Vim-white?style=flat&logo=vim&logoColor=019733)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://delonnewman.name/history/mysql/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://delonnewman.name/history/php/)
