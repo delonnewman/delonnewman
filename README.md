@@ -52,7 +52,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 #### Learning
 
 [![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://github.com/search?q=owner%3Adelonnewman+language%3A%22Emacs+Lisp%22+&type=repositories)
-[![AppleScript](https://img.shields.io/badge/AppleScript-00599C?style=flat&logo=apple&logoColor=white)]([![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://delonnewman.name/history/c))
+[![AppleScript](https://img.shields.io/badge/AppleScript-00599C?style=flat&logo=apple&logoColor=white)](https://github.com/search?q=owner%3Adelonnewman+language%3AAppleScript+&type=repositories)
 ![Objective-C](https://img.shields.io/badge/Objective-C-black?style=flat)
 [![Smalltalk](https://img.shields.io/badge/Smalltalk-silver?style=flat)](https://squeak.org/)
 
