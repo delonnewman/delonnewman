@@ -26,11 +26,11 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 #### Areas of Expertise
 
 - Domain Modeling
-- Web Development
-- Health Information Systems
 - Product Design & Delivery (PoCs, MVPs, stalled projects)
 - Sparsely Structured Data
 - Integration (APIs, legacy systems, parsing & encoding data formats)
+- Web Development
+- Health Information Systems
 
 #### Areas of Interest
 
