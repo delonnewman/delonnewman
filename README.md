@@ -73,7 +73,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://delonnewman.name/history/docker/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)](https://delonnewman.name/history/aws/)
 
-#### Others Commonly Used in the Past
+#### Others Used in the Past
 
 [![.NET](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)](https://delonnewman.name/history/c-sharp/)
 [![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)](https://delonnewman.name/history/perl/)
@@ -82,3 +82,5 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://delonnewman.name/history/mysql/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://delonnewman.name/history/php/)
 [![Sinatra](https://img.shields.io/badge/Sinatra-white?style=flat&logo=rubysinatra&logoColor=black)](https://delonnewman.name/history/sinatra/)
+[![Datomic](https://img.shields.io/badge/Datomic-white?style=flat&logo=clojure&logoColor=5881D8)](https://delonnewman.name/history/datomic/)
+[![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat)](https://delonnewman.name/history/vba/)
