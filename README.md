@@ -30,7 +30,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 - Sparsely Structured Data
 - Integration (APIs, legacy systems, parsing & encoding data formats)
 - Web Development
-- Health Information Systems
+- [Health Information Systems](https://delonnewman.name/history/healthcare)
 
 #### Areas of Interest
 
