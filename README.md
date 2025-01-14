@@ -29,7 +29,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 - Product Design & Delivery (PoCs, MVPs, stalled projects)
 - Sparsely Structured Data
 - Integration (APIs, legacy systems, parsing & encoding data formats)
-- Web Development
+- [Web Development](https://delonnewman.name/history/web-development/)
 - [Health Information Systems](https://delonnewman.name/history/healthcare)
 
 #### Areas of Interest
