@@ -51,6 +51,7 @@ or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://delonnewman.name/history/linux/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://delonnewman.name/history/docker/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=232F3E)](https://delonnewman.name/history/aws/)
 
 #### Others Commonly Used in the Past
 
