@@ -7,8 +7,7 @@ working with stakeholders to develop extensible scheduling,
 [form systems](https://delonnewman.name/history/form-system). I also love
 [teaching](https://delonnewman.name/history/teaching) and [mentoring](https://delonnewman.name/history/mentoring).
 Currently, most of my work is with [Ruby](https://delonnewman.name/history/ruby)
-and [JavaScript](https://delonnewman.name/history/javascript) (although
-I'm more of a Lisp or Smalltalk hacker at heart).
+and [JavaScript](https://delonnewman.name/history/javascript).
 
 ### Work
 
@@ -24,8 +23,22 @@ You'll find a reasonably complete summary of my experience [here](https://delonn
 Feel free to reach out to me by [email](mailto:contact@delonnewman.name)
 or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
 
-- [Website](https://delonnewman.name)
-- [LinkedIn](https://linkedin.com/in/delonnewman)
+#### Areas of Expertise
+
+- Domain Modeling
+- Web Development
+- Health Information Systems
+- Product Delivery (PoCs, MVPs, stalled projects)
+- Sparsely Structured Data
+- Integration (APIs, legacy systems, parsing & encoding data formats)
+
+#### Areas of Interest
+
+- Compilers & Intepreters
+- Foundations of CS (i.e. [What does it really mean to compute?](https://www.youtube.com/watch?v=HB5TrK7A4pI))
+- History of CS
+- Integrating of machine learning with structured techiques
+- Becoming a better [artist](https://www.paulgraham.com/knuth.html)
 
 ### Tools
 
