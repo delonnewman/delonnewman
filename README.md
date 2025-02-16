@@ -22,12 +22,3 @@ You'll find a reasonably complete summary of my experience [here](https://delonn
 (there's an abbreviated version in PDF format [here](https://delonnewman.name/resume.pdf)).
 Feel free to reach out to me by [email](mailto:contact@delonnewman.name)
 or on [LinkedIn](https://www.linkedin.com/in/delonnewman).
-
-#### Areas of Expertise
-
-- Domain Modeling
-- Product Design & Delivery (PoCs, MVPs, stalled projects)
-- Sparsely Structured Data
-- Integration (APIs, legacy systems, parsing & encoding data formats)
-- [Web Development](https://delonnewman.name/history/web-development/)
-- [Health Information Systems](https://delonnewman.name/history/healthcare)
