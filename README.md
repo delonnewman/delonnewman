@@ -6,7 +6,7 @@ working with stakeholders to develop extensible scheduling,
 [workflow](https://delonnewman.name/history/workflow), and
 [form systems](https://delonnewman.name/history/form-system). I also love
 [teaching](https://delonnewman.name/history/teaching) and [mentoring](https://delonnewman.name/history/mentoring).
-Currently, most of my work is with [Ruby](https://delonnewman.name/history/ruby)
+I've used a variety of tools over the years. Currently, most of my work is with [Ruby](https://delonnewman.name/history/ruby)
 and [JavaScript](https://delonnewman.name/history/javascript).
 I've also got a soft spot for C, Lisp and Perl.
 
