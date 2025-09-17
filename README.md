@@ -8,7 +8,7 @@ working with stakeholders to develop extensible scheduling,
 [teaching](https://delonnewman.name/history/teaching) and [mentoring](https://delonnewman.name/history/mentoring).
 I've used a variety of tools over the years. Currently, most of my work is with [Ruby](https://delonnewman.name/history/ruby)
 and [JavaScript](https://delonnewman.name/history/javascript).
-I also have a soft spot for C, Objective-C, Lisp, Perl & Smalltalk.
+I also have a soft spot for C, Lisp & Perl.
 
 ### Work
 
