@@ -6,9 +6,8 @@ working with stakeholders to develop extensible scheduling,
 [workflow](https://delonnewman.name/history/workflow), and
 [form systems](https://delonnewman.name/history/form-system). I also love
 [teaching](https://delonnewman.name/history/teaching) and [mentoring](https://delonnewman.name/history/mentoring).
-I've used a variety of tools over the years. Currently, most of my work is with [Ruby](https://delonnewman.name/history/ruby)
-and [JavaScript](https://delonnewman.name/history/javascript).
-I also have a soft spot for Lisp (mostly [Clojure](https://delonnewman.name/history/clojure)), [C](https://delonnewman.name/history/c), Smalltalk, and [Perl](https://delonnewman.name/history/perl).
+I've used a wide variety of tools over the years. However, most of my commercial work has centered around [Ruby](https://delonnewman.name/history/ruby), [JavaScript](https://delonnewman.name/history/javascript) or [Java](https://delonnewman.name/history/java).
+While I like to focus more on solving human problems than on technology, I do seem to have a soft spot for Lisp (mostly [Clojure](https://delonnewman.name/history/clojure)), [C](https://delonnewman.name/history/c), Smalltalk and [Perl](https://delonnewman.name/history/perl).
 
 ### Work
 
