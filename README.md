@@ -7,7 +7,7 @@ working with stakeholders to develop extensible scheduling,
 [form systems](https://delonnewman.name/history/form-system). I also love
 [teaching](https://delonnewman.name/history/teaching) and [mentoring](https://delonnewman.name/history/mentoring).
 I've used a wide variety of tools over the years. However, most of my commercial work has centered around [Ruby](https://delonnewman.name/history/ruby), [Type](https://delonnewman.name/history/typescript)/[JavaScript](https://delonnewman.name/history/javascript) or [Java](https://delonnewman.name/history/java).
-While I tend to be pragmatic about technology choices, I do seem to have a soft spot for Lisp (mostly Emacs and [Clojure](https://delonnewman.name/history/clojure)) and [C](https://delonnewman.name/history/c).
+While I tend to be pragmatic about technology choices, I do seem to have a soft spot for [Lisp](https://delonnewman.name/history/clojure) and [C](https://delonnewman.name/history/c).
 
 ### Work
 
